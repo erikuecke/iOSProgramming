@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5C08929D1DFC45E0A449678B90B54B21EC8A0425",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5C08929D1DFC45E0A449678B90B54B21EC8A0425" : 9223372036854775807,
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1A57B76A-C14C-4818-8C94-2B9E9EE00280",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5C08929D1DFC45E0A449678B90B54B21EC8A0425" : "iOSProgramming\/",
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "09Debugging",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "09Debugging\/09Debugging.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/iOSProgramming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C08929D1DFC45E0A449678B90B54B21EC8A0425"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/ToucherTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1"
+    }
+  ]
+}
