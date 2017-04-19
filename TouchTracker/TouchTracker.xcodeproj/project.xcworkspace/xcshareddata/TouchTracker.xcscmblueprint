@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5C08929D1DFC45E0A449678B90B54B21EC8A0425",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5C08929D1DFC45E0A449678B90B54B21EC8A0425" : 9223372036854775807,
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A0267A17-6F3B-496E-A0DA-89ED9EA9CDA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5C08929D1DFC45E0A449678B90B54B21EC8A0425" : "iOSProgramming\/",
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TouchTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TouchTracker\/TouchTracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/iOSProgramming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C08929D1DFC45E0A449678B90B54B21EC8A0425"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/ToucherTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1"
+    }
+  ]
+}
